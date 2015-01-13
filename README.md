@@ -1,1 +1,1 @@
-Syntax: ./part.sh <part-name> <api-key>
+Syntax: python csv.py csv-file api-key > new-csv
